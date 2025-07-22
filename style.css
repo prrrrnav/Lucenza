@@ -65,9 +65,12 @@ body {
   --bs-border-secondary-color: #DAD1CC !important;
 }
 
-#company-services{
-  justify-content: center;
+.small-logo{
+  height: 12em;
+  width: auto;
 }
+
+
 .img-fluid {
   width: 100%;
   height: 100%;
